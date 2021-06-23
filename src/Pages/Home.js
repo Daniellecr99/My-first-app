@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 import Header from "../Components/Header";
 import Example from "../Components/Example";
 
-
+import 
 //alllows us to pass props in the render body 
 // setState and set props
 //render components to the page 
